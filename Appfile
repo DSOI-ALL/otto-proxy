@@ -1,0 +1,7 @@
+application {
+	name = "otto-proxy"
+	type = "custom"
+}
+customization "dev-dep" {
+    vagrantfile = "./Vagrantfile"
+}
